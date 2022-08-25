@@ -16,14 +16,14 @@
 
 #### Now
 
-- ✨ Contributing to [Quality Assuring at Infolytx](https://www.infolytx.com/);
-- :fire: Interested in TestSecOps;
+- ✨ Contributing to the **Quality Assurance** at [Infolytx](https://www.infolytx.com/);
+- :fire: Interested in **TestSecOps**
 - :calendar: Looking for contributing to java script based open source projects 
 
 #### Bio
 
 - 🏢 I'm currently working at **Infolytx Bangladesh Ltd**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- ⚙️ I use daily: `.js`, `.py`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **WebdriverIO**, **Cypress**, **Playwright**, **Postman**
@@ -32,7 +32,16 @@
 
 #### My Current Stack
 
-<img height="48" src="img/cypress.jpg" alt="Cypress"> <img height="48" src="img/webdriver.io.png" alt="Webdriverio"> <img height="48" src="img/playwright-logo.png" alt="Playwright"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/javascript.png" alt="JavaScript"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/webdriver.io.png" alt="Webdriverio">
+<img height="48" src="img/cypress.jpg" alt="Cypress">  
+<img height="48" src="img/playwright-logo.png" alt="Playwright"> 
+<img height="48" src="img/javascript.png" alt="JavaScript"> 
+<img height="48" src="img/pytest-original.svg" alt="pytest"> 
+<img height="48" src="img/git-original.svg" alt="git">
+<img height="48" src="img/jenkins.png" alt="Jenkins">
+<img height="48" src="img/docker-original.svg" alt="Docker"> 
+<img height="48" src="img/linux-original.svg" alt="linux"> 
+<img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
