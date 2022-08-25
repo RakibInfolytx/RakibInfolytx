@@ -32,7 +32,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/cypressio.png" alt="Cypress"> <img height="48" src="img/webdriver.io.png" alt="Webdriverio"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/cypressio.png" alt="Cypress"> <img height="48" src="img/webdriver.io.png" alt="Webdriverio"> <img height="48" src="img/Playwright_logo.svg" alt="Playwright"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
