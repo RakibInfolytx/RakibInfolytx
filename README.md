@@ -14,7 +14,7 @@
 
 </p>
 
-#### Now
+#### Currently
 
 - ✨ Contributing to the **Quality Assurance** at [Infolytx](https://www.infolytx.com/);
 - :fire: Interested in **TestSecOps**
@@ -28,7 +28,8 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **WebdriverIO**, **Cypress**, **Playwright**, **Postman**
 - 📫 Reach me: [twitter.com/ra_cse](https://twitter.com/ra_cse)
-- 📝 Checkout my [Resume](files/SQA_6_University_Of_Wales_Rakib.pdf).
+- 📝 Checkout my [Resume](files/SQA_6_University_Of_Wales_Rakib.pdf)
+- ✨ Preview my [Github Resume](https://rakibinfolytx.github.io/resume/)
 
 #### My Current Stack
 
