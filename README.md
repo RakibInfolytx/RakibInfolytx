@@ -25,7 +25,7 @@
 - 🏢 I'm currently working at **Infolytx Bangladesh Ltd**
 - ⚙️ I use daily: `.js`, `.py`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
+- 🌱 Learning all about **DevTestSectOps**
 - 💬 Ping me about **WebdriverIO**, **Cypress**, **Playwright**, **Postman**
 - 📫 Reach me: [twitter.com/ra_cse](https://twitter.com/ra_cse)
 - 📝 Checkout my [Resume](files/SQA_6_University_Of_Wales_Rakib.pdf)
