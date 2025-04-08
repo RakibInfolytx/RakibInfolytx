@@ -16,14 +16,14 @@
 
 #### Currently
 
-- ✨ Contributing to the **Quality Assurance** at [Infolytx](https://www.infolytx.com/);
-- :fire: Interested in **TestSecOps**
-- :calendar: Looking for contributing to java script based open source projects 
+- ✨ Working as a **Senior Software Quality Assurance Engineer**
+- :fire: Interested in **DevTestSecOps**
+- :calendar: Looking for contributing to java script based open source projects like **Cypress, Playwright, WebdriverIO, Postman**.
 
 #### Bio
 
-- 🏢 I'm currently working at **Infolytx Bangladesh Ltd**
-- ⚙️ I use daily: `.js`, `.py`
+- 🏢 I'm currently working at **Nifty Coders Ltd.**
+- ⚙️ I use `.js`, `.py`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevTestSectOps**
 - 💬 Ping me about **WebdriverIO**, **Cypress**, **Playwright**, **Postman**
